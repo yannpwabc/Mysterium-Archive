@@ -5,7 +5,7 @@ const casesData = [
     year: "1872",
     category: "Unsolved Cases",
     summary: "Kapal yang ditemukan berlayar di Samudra Atlantik tanpa satu pun awak kapal tersisa.",
-    status: "Belum Terkumpul",
+    status: "Unsolved",
     timeline: ["1872: Berlayar dari New York", "1872: Ditemukan terombang-ambing tanpa awak"]
   },
   {
@@ -26,3 +26,13 @@ const casesData = [
     status: "Misteri",
     Timeline: ["1960: Frank Morris masuk penjara Alcatraz", "1960: John Anglin masuk penjara Alcatraz", "1961: Clarence Anglin masuk penjara Alcatraz", "1962: Kaburnya ketiga Narapidana"]
   },
+  {
+    id: 4,
+    title: "Setiabudi 13",
+    year: "1981",
+    category: "Historical Crimes",
+    summary: "Peristiwa penemuan mayat seorang pria yang tak dikenal yang dimutilasi menjadi 180 bagian di trotoar Jalan Jendral Sudirman, Setiabudi, Jakarta Selatan",
+    status: "Unsolved",
+    timeline: ["09:00 ditemukannya 2 kardus mencurigakan yang berbau anyir dan dikerubungi lalat di trotoar"]
+  },
+  
