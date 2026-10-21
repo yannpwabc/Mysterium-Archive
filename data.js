@@ -24,7 +24,7 @@ const casesData = [
     category: "Historical Crimes, Unsolved Cases",
     summary: "3 Narapidana diantaranya Frank Morris, John Anglin, dan Clarence Anglin kabur menggunakan bor sederhana dari sendok bekas dan motor dari kipas angin",
     status: "Misteri",
-    Timeline: ["1960: Frank Morris masuk penjara Alcatraz", "1960: John Anglin masuk penjara Alcatraz", "1961: Clarence Anglin masuk penjara Alcatraz", "1962: Kaburnya ketiga Narapidana"]
+    timeline: ["1960: Frank Morris masuk penjara Alcatraz", "1960: John Anglin masuk penjara Alcatraz", "1961: Clarence Anglin masuk penjara Alcatraz", "1962: Kaburnya ketiga Narapidana"]
   },
   {
     id: 4,
@@ -35,4 +35,4 @@ const casesData = [
     status: "Unsolved",
     timeline: ["09:00 ditemukannya 2 kardus mencurigakan yang berbau anyir dan dikerubungi lalat di trotoar"]
   },
-  
+  ]
