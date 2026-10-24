@@ -58,7 +58,7 @@ const casesData = [
     category: "Historical crimes",
     summary: "Kasus pertama kali polisi menggunakan sidik jari untuk memecahkan kejahatan terjadi pada tahun 1892 di Argentina, di mana Juan Vucetich berhasil mengidentifikasi Francisca Rojas sebagai pembunuh kedua anaknya sendiri melalui bercak sidik jari berdarah di tempat kejadian perkara.",
     status: "Solved",
-    image: "sidik_jari.jpg",
+    image: "img/sidik_jari.jpg",
     timeline: ["1892: Kasus Francisca Rojas di Argentina menjadi pembunuhan pertama di dunia yang dipecahkan menggunakan sidik jari oleh Juan Vucetich.",
                "1924: FBI mendirikan Divisi Identifikasi untuk mengumpulkan dan menyatukan basis data sidik jari terbesar di dunia."
     ]
