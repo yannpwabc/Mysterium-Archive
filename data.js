@@ -51,3 +51,4 @@ const casesData = [
               "1969: Pembunuhan di Blue Rock Springs (1 tewas, 1 selamat)."
     ]
   }
+]
