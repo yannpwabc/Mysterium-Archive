@@ -50,5 +50,13 @@ const casesData = [
     timeline: ["1968: Pembunuhan terkonfirmasi pertama terjadi di Lake Herman Road (2 korban tewas)",
               "1969: Pembunuhan di Blue Rock Springs (1 tewas, 1 selamat)."
     ]
-  }
+  },
+  {
+    id: 6,
+    title: "Pertama kalinya polisi menggunakan sidik jari",
+    year: "1892",
+    category: "Historical crimes",
+    summary: "Kasus pertama kali polisi menggunakan sidik jari untuk memecahkan kejahatan terjadi pada tahun 1892 di Argentina, di mana Juan Vucetich berhasil mengidentifikasi Francisca Rojas sebagai pembunuh kedua anaknya sendiri melalui bercak sidik jari berdarah di tempat kejadian perkara.",
+    status: "Solved",
+    image: "
 ]
