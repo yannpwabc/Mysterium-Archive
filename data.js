@@ -6,6 +6,7 @@ const casesData = [
     category: "Unsolved Cases",
     summary: "Kapal yang ditemukan berlayar di Samudra Atlantik tanpa satu pun awak kapal tersisa.",
     status: "Unsolved",
+    image: "img/mary_celeste.jpg",
     timeline: ["1872: Berlayar dari New York", "1872: Ditemukan terombang-ambing tanpa awak"]
   },
   {
