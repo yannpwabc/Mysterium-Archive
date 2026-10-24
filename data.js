@@ -16,7 +16,7 @@ const casesData = [
     category: "Historical Crimes",
     summary: "Pilot wanita pertama yang mencoba terbang mengelilingi dunia lalu hilang di Samudra Pasifik.",
     status: "Misteri",
-    image: "amelia_earhart.jpeg",
+    image: "img/amelia_earhart.jpeg",
     timeline: ["1937: Lepas landas dari Lae", "1937: Kontak radio terakhir hilang"]
   },
   {
@@ -26,7 +26,7 @@ const casesData = [
     category: "Historical Crimes, Unsolved Cases",
     summary: "3 Narapidana diantaranya Frank Morris, John Anglin, dan Clarence Anglin kabur menggunakan bor sederhana dari sendok bekas dan motor dari kipas angin",
     status: "Misteri",
-    image: "3_alcatraz",
+    image: "img/3_alcatraz",
     timeline: ["1960: Frank Morris masuk penjara Alcatraz", "1960: John Anglin masuk penjara Alcatraz", "1961: Clarence Anglin masuk penjara Alcatraz", "1962: Kaburnya ketiga Narapidana"]
   },
   {
@@ -36,7 +36,7 @@ const casesData = [
     category: "Historical Crimes",
     summary: "Peristiwa penemuan mayat seorang pria yang tak dikenal yang dimutilasi menjadi 180 bagian di trotoar Jalan Jendral Sudirman, Setiabudi, Jakarta Selatan",
     status: "Unsolved",
-    image: "setiabudi13.png",
+    image: "img/setiabudi13.png",
     timeline: ["09:00 ditemukannya 2 kardus mencurigakan yang berbau anyir dan dikerubungi lalat di trotoar"]
   },
   ]
