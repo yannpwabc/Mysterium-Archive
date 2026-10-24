@@ -60,7 +60,7 @@ const casesData = [
     status: "Solved",
     image: "img/sidik_jari.jpg",
     timeline: ["1892: Kasus Francisca Rojas di Argentina menjadi pembunuhan pertama di dunia yang dipecahkan menggunakan sidik jari oleh Juan Vucetich.",
-               "1924: FBI mendirikan Divisi Identifikasi untuk mengumpulkan dan menyatukan basis data sidik jari terbesar di dunia."
+              "1924: FBI mendirikan Divisi Identifikasi untuk mengumpulkan dan menyatukan basis data sidik jari terbesar di dunia."
     ]
   }
 ]
