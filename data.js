@@ -47,6 +47,7 @@ const casesData = [
     summary: "The Zodiac Killer adalah pembunuh berantai misterius yang beraksi di California Utara pada akhir 1960-an hingga awal 1970-an. Pelaku kerap mengirim surat dan kode rahasia ke media massa, serta mengklaim 37 korban jiwa, meski kepolisian hanya mengonfirmasi 5 korban tewas. Hingga kini, identitas aslinya tidak pernah terungkap.",
     status: "Unsolved",
     image: "img/zodiac_killer.jpg",
-    timeline: ["1968: Pembunuhan terkonfirmasi pertama terjadi di Lake Herman Road (2 korban tewas)]
-              ["1969: Pembunuhan di Blue Rock Springs (1 tewas, 1 selamat)."]
+    timeline: ["1968: Pembunuhan terkonfirmasi pertama terjadi di Lake Herman Road (2 korban tewas)"]
+              "1969: Pembunuhan di Blue Rock Springs (1 tewas, 1 selamat)."
+    ]
   }
