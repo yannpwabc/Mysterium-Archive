@@ -8,6 +8,7 @@ function renderCases(data) {
     const card = document.createElement("div");
     card.className = "case-card";
     card.innerHTML = `
+      <img src="${item.image}" alt="${item.title}" class="case-image">
       <h3>${item.title}</h3>
       <p><strong>Tahun:</strong> ${item.year} | <strong>Kategori:</strong> ${item.category}</p>
       <p>${item.summary}</p>
