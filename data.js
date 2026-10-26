@@ -48,8 +48,7 @@ const casesData = [
     status: "Unsolved",
     image: "img/zodiac_killer.jpg",
     timeline: ["1968: Pembunuhan terkonfirmasi pertama terjadi di Lake Herman Road (2 korban tewas)",
-              "1969: Pembunuhan di Blue Rock Springs (1 tewas, 1 selamat)."
-    ]
+              "1969: Pembunuhan di Blue Rock Springs (1 tewas, 1 selamat)."]
   },
   {
     id: 6,
@@ -60,8 +59,7 @@ const casesData = [
     status: "Solved",
     image: "img/sidik_jari.jpg",
     timeline: ["1892: Kasus Francisca Rojas di Argentina menjadi pembunuhan pertama di dunia yang dipecahkan menggunakan sidik jari oleh Juan Vucetich.",
-              "1924: FBI mendirikan Divisi Identifikasi untuk mengumpulkan dan menyatukan basis data sidik jari terbesar di dunia."
-    ]
+              "1924: FBI mendirikan Divisi Identifikasi untuk mengumpulkan dan menyatukan basis data sidik jari terbesar di dunia."]
   },
     {
     id: 7,
@@ -73,9 +71,7 @@ const casesData = [
     image: "IMG_b27f51dc-e772-40d5-8668-2fb70a9cf4bd.webp",
     timeline: ["1888: Serangkaian pembunuhan terjadi di kawasan Whitechapel, London.",
         "1888: Polisi melakukan penyelidikan besar-besaran untuk mencari pelaku.",
-        "Hingga kini: Identitas Jack the Ripper masih menjadi misteri."
-
-    ]
+        "Hingga kini: Identitas Jack the Ripper masih menjadi misteri."]
   },
   {
     id: 8,
@@ -89,8 +85,7 @@ const casesData = [
         "Abad ke-17: Manuskrip tercatat dalam sejarah kepemilikan sejumlah tokoh Eropa, termasuk Kaisar Rudolf II menurut catatan sejarah yang tersedia.",
         "1912: Wilfrid Voynich memperoleh manuskrip tersebut dari koleksi Jesuit di dekat Roma.",
         "1969: Manuskrip diserahkan kepada Beinecke Rare Book and Manuscript Library di Universitas Yale.",
-        "Hingga kini: Tulisan manuskrip belum berhasil diterjemahkan secara meyakinkan."
-    ]
+        "Hingga kini: Tulisan manuskrip belum berhasil diterjemahkan secara meyakinkan."]
   }, 
   {
     id: 9,
@@ -105,8 +100,7 @@ const casesData = [
         "Februari 1959: Sembilan pendaki meninggal dalam keadaan yang kemudian memicu penyelidikan.",
         "Mei 1959: Tim pencarian menemukan seluruh korban.",
         "2020: Penyelidik Rusia menyatakan longsoran salju sebagai penjelasan yang paling mungkin.",
-        "Hingga kini: Insiden tersebut tetap menjadi salah satu misteri sejarah yang banyak dibahas."
-    ]
+        "Hingga kini: Insiden tersebut tetap menjadi salah satu misteri sejarah yang banyak dibahas."]
   },
   {
     id: 10,
@@ -115,13 +109,12 @@ const casesData = [
     category: "Historical mysteries",
     summary: "Somerton Man adalah julukan bagi seorang pria yang ditemukan meninggal di Pantai Somerton, Adelaide, Australia, pada 1 Desember 1948. Saat ditemukan, pria tersebut tidak membawa identitas yang dapat memastikan namanya. Sebuah potongan kertas bertuliskan Tamam Shud ditemukan terkait kasus ini dan memicu berbagai teori tentang kehidupannya. Selama puluhan tahun, identitasnya menjadi misteri dan penyelidikan dilakukan untuk mengungkap siapa dirinya. Pada 2022, penelitian DNA dan silsilah keluarga mengarah pada identitas Charles Webb, meskipun sejumlah pertanyaan tentang kasus tersebut masih dibahas.",
     status: "Partially Explained",
-    image: ,
+    image: "kasus pantai.jpeg",
     timeline: ["1 Desember 1948: Seorang pria ditemukan meninggal di Pantai Somerton.",
         "1949: Penyelidik menemukan petunjuk berupa tulisan Tamam Shud.",
         "Beberapa dekade berikutnya: Identitas pria tersebut tetap menjadi misteri.",
         "2022: Penelitian DNA dan silsilah keluarga mengarah pada Charles Webb.",
-        "Hingga kini: Sejumlah aspek terkait kematian dan petunjuk kasus masih diperdebatkan."
-    ]
+        "Hingga kini: Sejumlah aspek terkait kematian dan petunjuk kasus masih diperdebatkan."]
   },
   {
    id: 11,
@@ -130,12 +123,11 @@ const casesData = [
    category: "Unsolved crimes",
    summary: "D.B. Cooper adalah nama populer bagi seorang pria yang membajak pesawat Northwest Orient Airlines Flight 305 pada 24 November 1971 di Amerika Serikat. Ia meminta uang tebusan sebesar 200.000 dolar AS dan sejumlah parasut. Setelah pesawat mendarat di Seattle, para penumpang dibebaskan dan pesawat kembali terbang. Pria tersebut kemudian melompat keluar dari pesawat menggunakan parasut dan tidak pernah ditemukan secara pasti. FBI menyelidiki kasus ini selama puluhan tahun, tetapi identitas dan nasibnya tetap belum terungkap.", 
    status: "Unsolved",
-   image:,
+   image: "DB_Cooper_Composite_Sketch_B.jpg",
    timeline: ["24 November 1971: Pembajakan pesawat Flight 305 terjadi.",
         "24 November 1971: Pelaku menerima uang tebusan dan parasut.",
         "24 November 1971: Pelaku melompat dari pesawat dan menghilang.",
         "1980: Sebagian uang tebusan ditemukan di dekat Sungai Columbia.",
-        "2016: FBI mengalihkan sumber daya penyelidikan ke prioritas lain." 
-    ]
+        "2016: FBI mengalihkan sumber daya penyelidikan ke prioritas lain."]
   },
 ]
