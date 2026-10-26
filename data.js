@@ -84,7 +84,7 @@ const casesData = [
     category: "Historical mysteries",
     summary: "Manuskrip Voynich adalah buku bergambar misterius yang diperkirakan dibuat pada awal abad ke-15 di Eropa. Naskah ini ditulis menggunakan sistem tulisan yang belum berhasil diidentifikasi dan dipahami secara meyakinkan. Isinya terdiri dari ilustrasi tumbuhan, diagram astronomi dan astrologi, gambar manusia, serta ilustrasi yang menyerupai bahan-bahan farmasi. Penulis dan tujuan asli manuskrip ini masih belum diketahui. Hingga kini, naskah tersebut menjadi salah satu misteri sejarah yang menarik perhatian para peneliti.",
     status: "Unsolved",
-    image:,
+    image: "gambar.jpeg",
     timeline: ["1404–1438: Hasil penanggalan radiokarbon menunjukkan perkiraan usia bahan perkamen manuskrip.",
         "Abad ke-17: Manuskrip tercatat dalam sejarah kepemilikan sejumlah tokoh Eropa, termasuk Kaisar Rudolf II menurut catatan sejarah yang tersedia.",
         "1912: Wilfrid Voynich memperoleh manuskrip tersebut dari koleksi Jesuit di dekat Roma.",
@@ -92,4 +92,20 @@ const casesData = [
         "Hingga kini: Tulisan manuskrip belum berhasil diterjemahkan secara meyakinkan."
     ]
   }, 
+  {
+    id: 9,
+    title: "Insiden Dyatlov Pass",
+    year: "1959",
+    category: "Unsolved mysteries",
+    summary: "Insiden Dyatlov Pass adalah peristiwa misterius yang terjadi pada Februari 1959 di Pegunungan Ural, Uni Soviet (sekarang Rusia). Sembilan pendaki berpengalaman ditemukan meninggal setelah meninggalkan tempat perkemahan mereka dalam keadaan yang tidak biasa. Berbagai teori muncul untuk menjelaskan penyebab kejadian tersebut, mulai dari kondisi cuaca ekstrem hingga fenomena alam. Pada 2020, penyelidik Rusia menyimpulkan bahwa longsoran salju merupakan penyebab yang paling mungkin. Namun, peristiwa ini masih menarik perhatian karena sejumlah detailnya terus diperdebatkan.",
+    status "Partially Explained",
+    image:,
+    timeline: ["Januari 1959: Sepuluh pendaki memulai ekspedisi di Pegunungan Ural.",
+        "1 Februari 1959: Kelompok mendirikan perkemahan di lereng Gunung Kholat Syakhl.",
+        "Februari 1959: Sembilan pendaki meninggal dalam keadaan yang kemudian memicu penyelidikan.",
+        "Mei 1959: Tim pencarian menemukan seluruh korban.",
+        "2020: Penyelidik Rusia menyatakan longsoran salju sebagai penjelasan yang paling mungkin.",
+        "Hingga kini: Insiden tersebut tetap menjadi salah satu misteri sejarah yang banyak dibahas."
+    ]
+  },
 ]
