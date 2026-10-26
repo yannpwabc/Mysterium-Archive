@@ -137,11 +137,12 @@ const casesData = [
     category: "Historical mysteries",
     summary: "Amber Room adalah ruangan mewah dengan panel amber yang awalnya dibuat untuk Raja Frederick I dari Prusia dan kemudian diberikan kepada Peter the Great dari Rusia pada 1716. Ruangan ini dipasang di Catherine Palace dekat Saint Petersburg. Pada 1941, pasukan Jerman mengambil panel-panelnya selama Perang Dunia II dan membawanya ke Königsberg. Panel tersebut terakhir diketahui berada dalam proses penyimpanan pada Januari 1945. Keberadaan seluruh panel asli hingga kini belum dipastikan, meskipun rekonstruksi Amber Room dibuka pada 2003.",
     status: "Unsolved",
-    image: "img/amber_room.jpg",
+    image: "img/Amber_Room_Catherine_Palace_Tsarskoye_Selo_pre-war_photo.jpg",
     timeline: ["1701: Pembuatan Amber Room dimulai.",
         "1716: Panel amber diberikan kepada Peter the Great.",
         "1941: Pasukan Jerman mengambil panel dari Catherine Palace.",
         "Januari 1945: Panel asli terakhir diketahui sedang disimpan.",
         "2003: Rekonstruksi Amber Room dibuka kembali.",
         "Hingga kini: Keberadaan seluruh panel asli belum diketahui."]
+  }
 ]
