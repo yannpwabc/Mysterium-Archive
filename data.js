@@ -62,5 +62,14 @@ const casesData = [
     timeline: ["1892: Kasus Francisca Rojas di Argentina menjadi pembunuhan pertama di dunia yang dipecahkan menggunakan sidik jari oleh Juan Vucetich.",
               "1924: FBI mendirikan Divisi Identifikasi untuk mengumpulkan dan menyatukan basis data sidik jari terbesar di dunia."
     ]
-  }
+  },
+    {
+    id: 7,
+    title: "Jack the Ripper",
+    year: "1888",
+    category: "Unsolved crimes",
+    summary: "Jack the Ripper adalah julukan bagi pembunuh berantai misterius yang beraksi di kawasan Whitechapel, London, Inggris, pada tahun 1888. Pelaku dikaitkan dengan pembunuhan sejumlah perempuan, tetapi identitas aslinya tidak pernah dipastikan. Kasus ini menjadi salah satu misteri kriminal paling terkenal dalam sejarah.",
+    status: "Unsolved",
+    image: 
+    
 ]
