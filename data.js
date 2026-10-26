@@ -79,13 +79,17 @@ const casesData = [
   },
   {
     id: 8,
-    title:,
-    year:,
-    category:,
-    summary:,
-    status:,
+    title: "Manuskrip Voynich",
+    year: "1404–1438",
+    category: "Historical mysteries",
+    summary: "Manuskrip Voynich adalah buku bergambar misterius yang diperkirakan dibuat pada awal abad ke-15 di Eropa. Naskah ini ditulis menggunakan sistem tulisan yang belum berhasil diidentifikasi dan dipahami secara meyakinkan. Isinya terdiri dari ilustrasi tumbuhan, diagram astronomi dan astrologi, gambar manusia, serta ilustrasi yang menyerupai bahan-bahan farmasi. Penulis dan tujuan asli manuskrip ini masih belum diketahui. Hingga kini, naskah tersebut menjadi salah satu misteri sejarah yang menarik perhatian para peneliti.",
+    status: "Unsolved",
     image:,
-    timeline:,
-    
-    
+    timeline: ["1404–1438: Hasil penanggalan radiokarbon menunjukkan perkiraan usia bahan perkamen manuskrip.",
+        "Abad ke-17: Manuskrip tercatat dalam sejarah kepemilikan sejumlah tokoh Eropa, termasuk Kaisar Rudolf II menurut catatan sejarah yang tersedia.",
+        "1912: Wilfrid Voynich memperoleh manuskrip tersebut dari koleksi Jesuit di dekat Roma.",
+        "1969: Manuskrip diserahkan kepada Beinecke Rare Book and Manuscript Library di Universitas Yale.",
+        "Hingga kini: Tulisan manuskrip belum berhasil diterjemahkan secara meyakinkan."
+    ]
+  }, 
 ]
