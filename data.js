@@ -70,6 +70,22 @@ const casesData = [
     category: "Unsolved crimes",
     summary: "Jack the Ripper adalah julukan bagi pembunuh berantai misterius yang beraksi di kawasan Whitechapel, London, Inggris, pada tahun 1888. Pelaku dikaitkan dengan pembunuhan sejumlah perempuan, tetapi identitas aslinya tidak pernah dipastikan. Kasus ini menjadi salah satu misteri kriminal paling terkenal dalam sejarah.",
     status: "Unsolved",
-    image: 
+    image: "IMG_b27f51dc-e772-40d5-8668-2fb70a9cf4bd.webp",
+    timeline: ["1888: Serangkaian pembunuhan terjadi di kawasan Whitechapel, London.",
+        "1888: Polisi melakukan penyelidikan besar-besaran untuk mencari pelaku.",
+        "Hingga kini: Identitas Jack the Ripper masih menjadi misteri."
+
+    ]
+  },
+  {
+    id: 8,
+    title:,
+    year:,
+    category:,
+    summary:,
+    status:,
+    image:,
+    timeline:,
+    
     
 ]
