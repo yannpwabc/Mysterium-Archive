@@ -144,5 +144,30 @@ const casesData = [
         "Januari 1945: Panel asli terakhir diketahui sedang disimpan.",
         "2003: Rekonstruksi Amber Room dibuka kembali.",
         "Hingga kini: Keberadaan seluruh panel asli belum diketahui."]
-  }
+  },
+  {
+    id: 13,
+    title: "The Mona Lisa Heist",
+    year: "1911",
+    category: "Historical crimes",
+    summary: "Pada Agustus 1911, lukisan Mona Lisa karya Leonardo da Vinci dicuri dari Museum Louvre di Paris, Prancis. Hilangnya lukisan tersebut mengejutkan dunia seni dan menjadi berita internasional. Penyelidikan dilakukan untuk mencari pelaku dan keberadaan lukisan. Pada 1913, lukisan itu ditemukan di Italia setelah Vincenzo Peruggia mencoba menjualnya. Mona Lisa kemudian dikembalikan ke Louvre, sehingga kasus pencurian ini berhasil dipecahkan.",
+    image: "monalisa",
+    timeline: ["Agustus 1911: Mona Lisa dicuri dari Museum Louvre.",
+        "1911: Hilangnya lukisan menjadi berita internasional.",
+        "1913: Lukisan ditemukan di Italia.",
+        "1913: Vincenzo Peruggia ditangkap dan lukisan dikembalikan."]
+  },
+  {
+    id: 14,
+    title: "The Lost Colony of Roanoke",
+    year: "1590",
+    category: "Historical mysteries",
+    summary: "Koloni Roanoke merupakan permukiman Inggris di Pulau Roanoke, Amerika Utara. Pada 1587, sekitar 115 orang menetap di sana di bawah pimpinan John White. White kembali ke Inggris untuk mencari persediaan dan baru kembali pada 1590. Saat tiba, ia menemukan permukiman tersebut telah ditinggalkan dan kata CROATOAN terukir di sebuah tiang. Nasib para penghuni koloni menjadi misteri sejarah yang belum terpecahkan secara pasti.",
+    image: "roanoke",
+    timeline: ["1587: Sekitar 115 orang membentuk koloni Inggris di Roanoke.",
+        "1587: John White kembali ke Inggris untuk mencari persediaan.",
+        "1590: White kembali dan menemukan koloni telah ditinggalkan.",
+        "1590: Tulisan CROATOAN ditemukan sebagai petunjuk.",
+        "Hingga kini: Nasib pasti para penghuni masih belum diketahui."]
+  }      
 ]
